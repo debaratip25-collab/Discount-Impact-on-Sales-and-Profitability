@@ -1,0 +1,501 @@
+Order_ID,Customer_ID,Customer_Name,Order_Date,Region,State,Product_Category,Product_Name,Quantity_Sold,Unit_Price,Sales_Amount,Discount_Percent,Profit_Amount,Sales_Representative,Payment_Method
+ORD0001,CUST174,Customer_190,2025-03-31,North,Delhi,Office Supplies,Stapler,4,14728,58912,5,12088.75,Karan,Net Banking
+ORD0002,CUST051,Customer_184,2026-03-06,North,Delhi,Electronics,Mobile,4,33218,132872,20,11229.16,Neha,Net Banking
+ORD0003,CUST196,Customer_87,2025-04-15,East,West Bengal,Electronics,Monitor,6,18310,109860,5,12810.04,Amit,Net Banking
+ORD0004,CUST097,Customer_21,2025-10-28,North,Punjab,Furniture,Table,13,2947,38311,15,6557.26,Karan,Cash
+ORD0005,CUST060,Customer_222,2025-04-14,South,Telangana,Electronics,Laptop,11,15035,165385,10,40930.75,Priya,Cash
+ORD0006,CUST180,Customer_240,2025-03-15,West,Rajasthan,Furniture,Desk,6,23383,140298,5,27207.96,Karan,Card
+ORD0007,CUST084,Customer_216,2025-02-27,South,Karnataka,Furniture,Cabinet,5,42043,210215,20,24665.49,Neha,UPI
+ORD0008,CUST128,Customer_102,2026-04-15,East,Odisha,Furniture,Chair,4,37270,149080,10,17315.12,Neha,Cash
+ORD0009,CUST103,Customer_93,2025-08-13,South,Karnataka,Office Supplies,Stapler,12,38411,460932,15,107226.56,Neha,Net Banking
+ORD0010,CUST099,Customer_98,2026-04-25,North,Delhi,Electronics,Mobile,11,10584,116424,15,21118.1,Karan,Cash
+ORD0011,CUST088,Customer_29,2025-10-28,North,Haryana,Office Supplies,Printer Paper,11,35290,388190,10,81776.8,Priya,Card
+ORD0012,CUST161,Customer_77,2026-06-04,West,Maharashtra,Office Supplies,Stapler,9,11808,106272,20,24989.51,Karan,Card
+ORD0013,CUST093,Customer_225,2025-11-11,South,Tamil Nadu,Electronics,Laptop,10,21343,213430,15,17781.08,Neha,UPI
+ORD0014,CUST137,Customer_197,2025-05-09,South,Telangana,Electronics,Laptop,12,31949,383388,0,94412.12,Neha,Net Banking
+ORD0015,CUST103,Customer_172,2026-01-18,South,Tamil Nadu,Office Supplies,Notebook,4,35443,141772,5,28524.71,Priya,Net Banking
+ORD0016,CUST151,Customer_57,2025-01-08,North,Delhi,Electronics,Laptop,6,1478,8868,20,1544.51,Amit,UPI
+ORD0017,CUST125,Customer_55,2025-05-16,South,Karnataka,Electronics,Tablet,2,33795,67590,5,8606.99,Karan,Net Banking
+ORD0018,CUST106,Customer_120,2025-02-25,South,Tamil Nadu,Furniture,Desk,2,6452,12904,15,1809.54,Amit,UPI
+ORD0019,CUST036,Customer_109,2025-07-07,West,Rajasthan,Furniture,Chair,4,12656,50624,5,8665.24,Raj,Net Banking
+ORD0020,CUST024,Customer_238,2025-08-31,South,Karnataka,Furniture,Chair,1,42838,42838,20,9515.38,Neha,Net Banking
+ORD0021,CUST100,Customer_68,2026-04-11,West,Gujarat,Electronics,Monitor,15,3942,59130,5,8539.88,Raj,Net Banking
+ORD0022,CUST016,Customer_192,2025-11-18,West,Maharashtra,Electronics,Tablet,4,3932,15728,20,3225.42,Amit,UPI
+ORD0023,CUST018,Customer_153,2025-03-11,West,Rajasthan,Office Supplies,Pen Set,1,33381,33381,0,7501.65,Neha,Net Banking
+ORD0024,CUST145,Customer_134,2025-11-20,North,Haryana,Electronics,Laptop,10,5472,54720,15,10492.75,Raj,Card
+ORD0025,CUST193,Customer_240,2025-03-16,East,West Bengal,Furniture,Cabinet,3,44119,132357,10,20876.43,Amit,Net Banking
+ORD0026,CUST018,Customer_226,2025-09-08,North,Delhi,Office Supplies,Pen Set,9,17480,157320,5,37545.06,Raj,Cash
+ORD0027,CUST142,Customer_77,2025-04-17,South,Tamil Nadu,Office Supplies,Stapler,10,42958,429580,20,34937.71,Neha,Cash
+ORD0028,CUST088,Customer_53,2025-09-28,North,Delhi,Office Supplies,Pen Set,5,18565,92825,20,10749.79,Karan,Net Banking
+ORD0029,CUST198,Customer_34,2025-09-26,East,West Bengal,Electronics,Monitor,14,18232,255248,0,20573.7,Neha,Net Banking
+ORD0030,CUST095,Customer_150,2025-06-01,West,Rajasthan,Electronics,Laptop,2,45386,90772,5,15680.89,Priya,Card
+ORD0031,CUST171,Customer_27,2025-12-29,North,Punjab,Furniture,Chair,15,23549,353235,5,69216.87,Karan,Net Banking
+ORD0032,CUST086,Customer_201,2026-02-26,South,Karnataka,Electronics,Mobile,15,27120,406800,0,44947.87,Neha,Cash
+ORD0033,CUST118,Customer_90,2025-11-09,South,Telangana,Electronics,Monitor,14,2637,36918,15,4349.45,Neha,Card
+ORD0034,CUST072,Customer_90,2026-06-06,North,Haryana,Electronics,Monitor,6,18358,110148,0,26916.99,Priya,Cash
+ORD0035,CUST112,Customer_89,2025-11-18,North,Delhi,Furniture,Desk,10,17497,174970,0,17222.02,Priya,UPI
+ORD0036,CUST138,Customer_176,2025-07-21,West,Rajasthan,Electronics,Tablet,1,46550,46550,15,3737.38,Raj,Net Banking
+ORD0037,CUST171,Customer_105,2025-12-01,North,Haryana,Furniture,Table,11,8267,90937,10,15114.71,Priya,Cash
+ORD0038,CUST078,Customer_104,2025-01-01,South,Karnataka,Furniture,Cabinet,11,49129,540419,5,99781.63,Raj,Cash
+ORD0039,CUST131,Customer_122,2025-06-23,South,Tamil Nadu,Office Supplies,Stapler,8,29052,232416,15,45287.8,Amit,Cash
+ORD0040,CUST063,Customer_122,2025-03-16,East,West Bengal,Electronics,Tablet,4,13150,52600,5,4426.41,Priya,Net Banking
+ORD0041,CUST177,Customer_2,2025-04-20,South,Telangana,Office Supplies,Notebook,8,26291,210328,5,22102.77,Priya,Card
+ORD0042,CUST032,Customer_117,2025-05-17,South,Telangana,Office Supplies,Notebook,1,36630,36630,5,8643.58,Priya,Cash
+ORD0043,CUST191,Customer_221,2026-05-02,West,Rajasthan,Office Supplies,Notebook,14,36005,504070,15,117209.07,Priya,Cash
+ORD0044,CUST183,Customer_74,2025-08-29,South,Telangana,Furniture,Cabinet,11,15779,173569,10,26864.72,Raj,Cash
+ORD0045,CUST181,Customer_55,2025-03-07,East,Bihar,Electronics,Mobile,3,15255,45765,15,9060.16,Priya,Net Banking
+ORD0046,CUST198,Customer_150,2025-01-21,East,Bihar,Furniture,Cabinet,1,13655,13655,15,1996.51,Karan,Net Banking
+ORD0047,CUST189,Customer_140,2025-08-14,West,Maharashtra,Furniture,Table,13,25658,333554,15,57203.68,Priya,Card
+ORD0048,CUST120,Customer_236,2025-05-11,East,Odisha,Furniture,Chair,7,22128,154896,15,31461.06,Karan,UPI
+ORD0049,CUST119,Customer_47,2025-02-21,West,Rajasthan,Office Supplies,Printer Paper,2,42223,84446,15,8703.76,Raj,Net Banking
+ORD0050,CUST108,Customer_65,2025-03-25,East,West Bengal,Furniture,Table,6,49987,299922,15,38181.16,Priya,UPI
+ORD0051,CUST064,Customer_52,2025-01-21,North,Punjab,Electronics,Laptop,13,42813,556569,0,115888.6,Karan,Card
+ORD0052,CUST197,Customer_95,2025-06-21,South,Karnataka,Furniture,Chair,10,14384,143840,15,28611.08,Karan,UPI
+ORD0053,CUST097,Customer_102,2025-07-23,South,Tamil Nadu,Electronics,Laptop,15,20544,308160,20,60137.13,Amit,Card
+ORD0054,CUST110,Customer_170,2026-01-15,North,Haryana,Furniture,Chair,13,37188,483444,0,67210.63,Amit,Cash
+ORD0055,CUST112,Customer_46,2026-06-19,North,Punjab,Furniture,Chair,7,23836,166852,15,33410.86,Raj,Net Banking
+ORD0056,CUST116,Customer_63,2026-04-21,West,Gujarat,Office Supplies,Stapler,6,16188,97128,0,12375.84,Karan,Net Banking
+ORD0057,CUST067,Customer_88,2025-10-14,East,West Bengal,Furniture,Table,3,32052,96156,5,13492.63,Karan,Cash
+ORD0058,CUST195,Customer_62,2026-05-03,North,Haryana,Electronics,Laptop,4,47290,189160,15,30844.1,Priya,Net Banking
+ORD0059,CUST149,Customer_95,2026-04-30,North,Delhi,Furniture,Desk,7,45436,318052,5,42000.36,Karan,Cash
+ORD0060,CUST065,Customer_60,2025-05-04,West,Rajasthan,Office Supplies,Stapler,6,46162,276972,15,34913.92,Neha,Cash
+ORD0061,CUST151,Customer_195,2026-06-22,North,Haryana,Office Supplies,Pen Set,4,14280,57120,15,7254.52,Karan,Cash
+ORD0062,CUST137,Customer_33,2025-10-08,North,Delhi,Furniture,Desk,6,11859,71154,10,5863.46,Amit,UPI
+ORD0063,CUST123,Customer_113,2025-12-15,East,Bihar,Electronics,Monitor,2,903,1806,20,231.78,Neha,UPI
+ORD0064,CUST176,Customer_14,2025-06-05,East,Odisha,Electronics,Laptop,7,32327,226289,0,40300.62,Neha,Cash
+ORD0065,CUST134,Customer_98,2026-04-07,North,Delhi,Electronics,Monitor,10,39167,391670,20,46360.73,Priya,Cash
+ORD0066,CUST054,Customer_161,2025-08-05,West,Gujarat,Office Supplies,Printer Paper,10,48602,486020,0,117174.72,Raj,UPI
+ORD0067,CUST153,Customer_121,2025-10-26,South,Karnataka,Electronics,Laptop,3,275,825,15,129.18,Amit,Card
+ORD0068,CUST161,Customer_151,2025-07-22,East,Bihar,Furniture,Cabinet,2,45148,90296,5,21406.01,Priya,UPI
+ORD0069,CUST079,Customer_153,2025-10-23,South,Telangana,Electronics,Tablet,14,9421,131894,0,11888.72,Priya,UPI
+ORD0070,CUST021,Customer_154,2025-02-10,West,Rajasthan,Furniture,Cabinet,5,32898,164490,20,26967.34,Priya,Cash
+ORD0071,CUST196,Customer_173,2025-10-03,East,West Bengal,Electronics,Mobile,11,37796,415756,20,100460.65,Karan,UPI
+ORD0072,CUST112,Customer_163,2026-05-19,South,Tamil Nadu,Office Supplies,Notebook,15,18329,274935,5,68590.98,Amit,Net Banking
+ORD0073,CUST178,Customer_127,2025-10-23,East,Odisha,Furniture,Table,11,6955,76505,5,10409.78,Priya,UPI
+ORD0074,CUST001,Customer_169,2026-04-19,West,Maharashtra,Furniture,Table,6,7697,46182,15,10484.92,Priya,UPI
+ORD0075,CUST141,Customer_34,2025-10-22,South,Telangana,Furniture,Cabinet,11,29069,319759,0,36645.95,Priya,Net Banking
+ORD0076,CUST142,Customer_105,2025-04-06,North,Delhi,Office Supplies,Pen Set,12,10479,125748,10,21835.21,Neha,UPI
+ORD0077,CUST070,Customer_107,2026-05-10,West,Maharashtra,Office Supplies,Pen Set,8,47063,376504,10,62691.02,Priya,Card
+ORD0078,CUST035,Customer_222,2025-03-13,West,Rajasthan,Electronics,Monitor,4,39380,157520,20,32586.12,Raj,Net Banking
+ORD0079,CUST149,Customer_169,2026-05-17,East,Bihar,Furniture,Chair,5,47682,238410,10,53015.45,Neha,Net Banking
+ORD0080,CUST062,Customer_147,2026-01-28,West,Gujarat,Furniture,Cabinet,8,21188,169504,5,41822.01,Neha,Net Banking
+ORD0081,CUST167,Customer_39,2026-05-23,North,Punjab,Office Supplies,Notebook,12,25084,301008,15,74659.13,Amit,Card
+ORD0082,CUST105,Customer_223,2025-06-08,East,West Bengal,Furniture,Chair,9,30045,270405,0,54842.31,Amit,Net Banking
+ORD0083,CUST137,Customer_98,2025-11-21,East,Odisha,Office Supplies,Notebook,11,5363,58993,10,13267.41,Priya,UPI
+ORD0084,CUST026,Customer_195,2025-04-13,North,Delhi,Office Supplies,Stapler,4,49040,196160,0,30164.53,Priya,Card
+ORD0085,CUST111,Customer_38,2025-09-08,East,West Bengal,Electronics,Tablet,13,3777,49101,10,6920.23,Karan,Net Banking
+ORD0086,CUST128,Customer_234,2025-05-27,South,Karnataka,Electronics,Laptop,10,25170,251700,20,49366.65,Neha,Net Banking
+ORD0087,CUST041,Customer_19,2026-03-29,East,Odisha,Furniture,Chair,15,30590,458850,10,89564.7,Raj,Cash
+ORD0088,CUST124,Customer_28,2025-08-31,West,Rajasthan,Furniture,Cabinet,14,19899,278586,5,69616.83,Priya,Cash
+ORD0089,CUST145,Customer_222,2025-02-20,East,Bihar,Furniture,Chair,14,43237,605318,15,76670.59,Karan,Net Banking
+ORD0090,CUST174,Customer_194,2025-05-21,East,West Bengal,Office Supplies,Stapler,4,41821,167284,5,31039.8,Amit,UPI
+ORD0091,CUST084,Customer_192,2026-03-02,East,Odisha,Electronics,Tablet,12,8712,104544,0,24529.86,Neha,Card
+ORD0092,CUST124,Customer_248,2025-10-30,South,Telangana,Furniture,Table,14,10883,152362,10,35864.24,Raj,UPI
+ORD0093,CUST143,Customer_94,2025-04-03,West,Maharashtra,Electronics,Mobile,14,44423,621922,15,152020.04,Priya,UPI
+ORD0094,CUST164,Customer_241,2026-01-16,East,Bihar,Electronics,Monitor,6,44194,265164,10,47563.85,Amit,Card
+ORD0095,CUST163,Customer_211,2026-04-21,West,Maharashtra,Office Supplies,Stapler,15,40082,601230,5,114294.37,Raj,Net Banking
+ORD0096,CUST138,Customer_35,2026-02-02,North,Delhi,Electronics,Laptop,5,32384,161920,0,15628.95,Priya,Cash
+ORD0097,CUST158,Customer_105,2025-10-14,West,Rajasthan,Office Supplies,Pen Set,15,27289,409335,0,90760.96,Amit,Cash
+ORD0098,CUST095,Customer_140,2026-01-03,South,Tamil Nadu,Furniture,Desk,14,23868,334152,0,82454.58,Amit,Net Banking
+ORD0099,CUST153,Customer_249,2025-01-22,East,West Bengal,Electronics,Monitor,2,43535,87070,5,16464.05,Amit,Cash
+ORD0100,CUST060,Customer_85,2025-06-01,South,Karnataka,Office Supplies,Pen Set,2,36420,72840,5,13088.26,Karan,UPI
+ORD0101,CUST007,Customer_34,2025-01-16,East,West Bengal,Electronics,Tablet,13,11535,149955,0,28848.31,Raj,Card
+ORD0102,CUST191,Customer_17,2026-05-03,East,West Bengal,Electronics,Tablet,1,8407,8407,15,1424.44,Priya,Cash
+ORD0103,CUST165,Customer_247,2025-02-01,North,Punjab,Office Supplies,Pen Set,10,2941,29410,20,3860.86,Amit,Net Banking
+ORD0104,CUST021,Customer_83,2025-06-01,West,Gujarat,Office Supplies,Printer Paper,8,46787,374296,15,34619.92,Amit,Card
+ORD0105,CUST130,Customer_155,2026-03-17,East,Bihar,Office Supplies,Stapler,7,39250,274750,20,35753.94,Amit,UPI
+ORD0106,CUST187,Customer_25,2025-11-17,South,Tamil Nadu,Furniture,Desk,7,22312,156184,15,23081.52,Priya,Cash
+ORD0107,CUST025,Customer_191,2026-01-17,East,Odisha,Electronics,Monitor,2,6078,12156,0,1165.14,Neha,UPI
+ORD0108,CUST185,Customer_14,2025-10-22,East,Bihar,Electronics,Monitor,6,43703,262218,15,59674.44,Karan,Cash
+ORD0109,CUST028,Customer_90,2026-01-12,East,West Bengal,Office Supplies,Pen Set,3,43139,129417,15,15286.95,Amit,Cash
+ORD0110,CUST070,Customer_180,2025-11-13,South,Tamil Nadu,Office Supplies,Printer Paper,10,43211,432110,10,36695.66,Raj,Cash
+ORD0111,CUST136,Customer_56,2026-01-21,North,Delhi,Electronics,Monitor,2,9397,18794,0,1796.68,Priya,Net Banking
+ORD0112,CUST014,Customer_40,2025-06-11,East,West Bengal,Furniture,Table,12,21358,256296,20,46481.34,Karan,UPI
+ORD0113,CUST056,Customer_194,2026-06-09,North,Punjab,Furniture,Cabinet,8,39885,319080,15,47993.22,Amit,Cash
+ORD0114,CUST102,Customer_154,2025-02-26,West,Maharashtra,Furniture,Cabinet,9,43821,394389,10,34596.18,Amit,Card
+ORD0115,CUST192,Customer_111,2025-06-29,East,West Bengal,Electronics,Tablet,5,21603,108015,0,8783.14,Neha,Net Banking
+ORD0116,CUST118,Customer_236,2025-03-21,South,Telangana,Office Supplies,Stapler,2,26122,52244,0,8053.8,Raj,Net Banking
+ORD0117,CUST084,Customer_44,2026-04-17,West,Rajasthan,Office Supplies,Notebook,5,7648,38240,15,3194.78,Raj,UPI
+ORD0118,CUST080,Customer_191,2025-12-14,West,Maharashtra,Electronics,Monitor,10,26343,263430,20,24596.46,Neha,Cash
+ORD0119,CUST090,Customer_90,2025-06-01,South,Karnataka,Office Supplies,Printer Paper,9,33520,301680,5,70595.19,Neha,UPI
+ORD0120,CUST198,Customer_161,2026-05-21,South,Tamil Nadu,Electronics,Mobile,10,10118,101180,0,11141.42,Priya,Net Banking
+ORD0121,CUST078,Customer_204,2025-10-09,East,Bihar,Furniture,Desk,8,4575,36600,15,5679.42,Karan,UPI
+ORD0122,CUST074,Customer_20,2025-04-03,East,Bihar,Electronics,Tablet,8,29716,237728,0,21317.38,Karan,Net Banking
+ORD0123,CUST122,Customer_129,2025-06-04,West,Rajasthan,Office Supplies,Printer Paper,8,37564,300512,5,40466.81,Amit,Net Banking
+ORD0124,CUST182,Customer_113,2026-03-26,North,Punjab,Office Supplies,Printer Paper,9,42444,381996,5,33101.54,Karan,Card
+ORD0125,CUST162,Customer_166,2025-12-09,East,Odisha,Furniture,Cabinet,7,22275,155925,20,13862.07,Amit,Cash
+ORD0126,CUST086,Customer_21,2025-05-25,North,Haryana,Office Supplies,Notebook,5,16614,83070,20,18977.97,Raj,Cash
+ORD0127,CUST085,Customer_209,2025-05-11,West,Maharashtra,Office Supplies,Printer Paper,5,36729,183645,15,34781.23,Karan,UPI
+ORD0128,CUST088,Customer_243,2026-05-13,West,Rajasthan,Furniture,Chair,6,20341,122046,5,29498.37,Neha,Card
+ORD0129,CUST190,Customer_227,2026-06-24,South,Karnataka,Electronics,Tablet,14,6728,94192,20,19879.1,Amit,Cash
+ORD0130,CUST043,Customer_185,2026-03-25,South,Telangana,Furniture,Desk,3,11951,35853,20,7799.37,Amit,Net Banking
+ORD0131,CUST115,Customer_60,2025-09-02,East,Bihar,Office Supplies,Pen Set,8,40115,320920,10,66721.35,Raj,Net Banking
+ORD0132,CUST108,Customer_248,2025-06-15,South,Tamil Nadu,Office Supplies,Notebook,8,18566,148528,15,24580.51,Neha,Card
+ORD0133,CUST183,Customer_217,2026-06-13,East,West Bengal,Office Supplies,Notebook,14,24427,341978,20,81674.57,Amit,Cash
+ORD0134,CUST024,Customer_243,2025-08-16,North,Delhi,Furniture,Cabinet,15,33743,506145,5,111998.72,Priya,Cash
+ORD0135,CUST021,Customer_96,2025-08-18,North,Punjab,Electronics,Monitor,9,24607,221463,5,32255.7,Amit,Cash
+ORD0136,CUST121,Customer_179,2025-05-23,North,Haryana,Office Supplies,Stapler,13,9671,125723,5,10876.49,Priya,Net Banking
+ORD0137,CUST156,Customer_136,2026-03-10,North,Delhi,Electronics,Tablet,4,9898,39592,20,9495.68,Amit,Cash
+ORD0138,CUST029,Customer_215,2026-05-27,South,Tamil Nadu,Electronics,Laptop,4,27613,110452,20,17419.31,Karan,UPI
+ORD0139,CUST147,Customer_107,2025-07-11,South,Telangana,Electronics,Tablet,7,202,1414,20,197.93,Amit,Cash
+ORD0140,CUST096,Customer_65,2025-01-17,North,Haryana,Office Supplies,Printer Paper,7,30910,216370,0,40691.42,Raj,UPI
+ORD0141,CUST091,Customer_140,2025-12-13,East,West Bengal,Office Supplies,Printer Paper,13,38235,497055,10,51037.42,Neha,Net Banking
+ORD0142,CUST052,Customer_12,2025-07-24,West,Rajasthan,Electronics,Mobile,2,47026,94052,15,8115.49,Amit,Cash
+ORD0143,CUST200,Customer_13,2025-12-06,East,Bihar,Furniture,Cabinet,5,2499,12495,5,1607.34,Raj,UPI
+ORD0144,CUST128,Customer_178,2026-05-25,East,Odisha,Furniture,Cabinet,15,25439,381585,10,93691.71,Raj,Cash
+ORD0145,CUST083,Customer_27,2025-03-23,North,Haryana,Furniture,Chair,7,39582,277074,5,47859.17,Raj,Cash
+ORD0146,CUST011,Customer_187,2025-12-28,East,Odisha,Office Supplies,Notebook,3,45304,135912,15,18995.47,Karan,Net Banking
+ORD0147,CUST192,Customer_174,2025-06-13,East,Bihar,Electronics,Laptop,11,41880,460680,15,65307.33,Amit,Card
+ORD0148,CUST146,Customer_9,2025-06-07,West,Maharashtra,Electronics,Laptop,4,42381,169524,10,23998.77,Priya,Cash
+ORD0149,CUST072,Customer_64,2025-04-27,East,Odisha,Electronics,Mobile,9,24148,217332,15,29001.98,Amit,Card
+ORD0150,CUST157,Customer_74,2026-05-18,West,Rajasthan,Furniture,Chair,5,17158,85790,15,9992.56,Neha,UPI
+ORD0151,CUST175,Customer_248,2025-11-24,South,Karnataka,Furniture,Desk,15,46851,702765,15,175364.19,Raj,UPI
+ORD0152,CUST052,Customer_203,2025-05-23,East,Odisha,Electronics,Mobile,13,23790,309270,20,36531.3,Neha,Net Banking
+ORD0153,CUST023,Customer_17,2025-11-13,North,Punjab,Office Supplies,Stapler,8,36252,290016,5,53372.0,Priya,Net Banking
+ORD0154,CUST175,Customer_133,2025-12-19,West,Gujarat,Office Supplies,Printer Paper,3,20876,62628,0,9801.01,Neha,Card
+ORD0155,CUST043,Customer_42,2025-11-27,South,Tamil Nadu,Office Supplies,Printer Paper,14,8237,115318,20,12225.16,Neha,Cash
+ORD0156,CUST078,Customer_158,2025-04-06,East,West Bengal,Furniture,Desk,11,36199,398189,10,40328.16,Karan,Card
+ORD0157,CUST008,Customer_21,2025-02-16,South,Karnataka,Office Supplies,Stapler,14,37037,518518,0,114224.42,Karan,Cash
+ORD0158,CUST078,Customer_124,2025-09-08,South,Telangana,Furniture,Chair,8,41201,329608,20,42599.92,Priya,Cash
+ORD0159,CUST053,Customer_88,2025-05-28,West,Maharashtra,Office Supplies,Printer Paper,3,28909,86727,15,14077.76,Raj,Cash
+ORD0160,CUST120,Customer_32,2025-10-01,East,Odisha,Electronics,Tablet,9,36908,332172,0,44593.99,Priya,Card
+ORD0161,CUST041,Customer_209,2025-12-02,South,Karnataka,Electronics,Tablet,7,40429,283003,15,34584.65,Karan,Cash
+ORD0162,CUST101,Customer_130,2026-04-14,South,Karnataka,Furniture,Cabinet,8,20320,162560,15,13645.28,Neha,Card
+ORD0163,CUST003,Customer_217,2025-04-21,East,West Bengal,Electronics,Tablet,8,39258,314064,15,40381.48,Priya,Card
+ORD0164,CUST144,Customer_50,2026-01-07,East,Bihar,Furniture,Cabinet,6,3065,18390,15,1631.13,Karan,Cash
+ORD0165,CUST160,Customer_175,2025-05-02,North,Punjab,Office Supplies,Notebook,13,36135,469755,10,103488.4,Neha,UPI
+ORD0166,CUST103,Customer_129,2025-02-11,West,Gujarat,Furniture,Table,13,9554,124202,5,22656.77,Amit,UPI
+ORD0167,CUST132,Customer_36,2025-12-02,South,Telangana,Furniture,Cabinet,9,30049,270441,5,49508.09,Karan,Cash
+ORD0168,CUST137,Customer_126,2025-11-03,South,Tamil Nadu,Office Supplies,Stapler,10,22144,221440,20,48895.99,Priya,UPI
+ORD0169,CUST186,Customer_224,2025-01-28,East,Odisha,Office Supplies,Printer Paper,7,38353,268471,10,57841.63,Karan,Net Banking
+ORD0170,CUST135,Customer_162,2026-01-25,East,Bihar,Office Supplies,Pen Set,12,3465,41580,20,6722.5,Neha,Card
+ORD0171,CUST039,Customer_106,2025-07-28,North,Haryana,Office Supplies,Printer Paper,4,1341,5364,15,715.17,Priya,Net Banking
+ORD0172,CUST081,Customer_245,2025-06-27,North,Haryana,Electronics,Mobile,9,21402,192618,15,32616.22,Priya,Cash
+ORD0173,CUST072,Customer_143,2025-11-02,East,Bihar,Office Supplies,Stapler,10,31831,318310,5,77268.91,Neha,Cash
+ORD0174,CUST185,Customer_71,2025-10-22,East,Bihar,Electronics,Monitor,6,31544,189264,10,33174.74,Amit,Net Banking
+ORD0175,CUST114,Customer_168,2025-09-20,West,Gujarat,Electronics,Tablet,1,18950,18950,0,2631.81,Priya,Card
+ORD0176,CUST062,Customer_63,2025-02-21,South,Telangana,Furniture,Table,3,7258,21774,20,4484.39,Karan,Card
+ORD0177,CUST198,Customer_36,2025-01-06,South,Karnataka,Electronics,Monitor,6,47112,282672,15,27445.37,Karan,Card
+ORD0178,CUST166,Customer_16,2025-04-02,West,Rajasthan,Furniture,Cabinet,11,13171,144881,10,19500.77,Karan,Card
+ORD0179,CUST048,Customer_240,2025-10-24,North,Delhi,Furniture,Desk,15,2481,37215,15,7962.27,Amit,UPI
+ORD0180,CUST165,Customer_140,2026-06-21,East,Bihar,Office Supplies,Printer Paper,15,22057,330855,10,52023.42,Priya,Card
+ORD0181,CUST184,Customer_48,2025-01-15,West,Gujarat,Electronics,Laptop,6,10749,64494,15,12267.31,Raj,Cash
+ORD0182,CUST103,Customer_172,2025-04-08,South,Karnataka,Office Supplies,Notebook,14,28129,393806,20,53458.19,Neha,Card
+ORD0183,CUST069,Customer_245,2025-12-04,West,Gujarat,Electronics,Laptop,5,25237,126185,5,19677.92,Raj,UPI
+ORD0184,CUST041,Customer_104,2026-05-30,East,Bihar,Furniture,Desk,1,43864,43864,0,6979.51,Raj,UPI
+ORD0185,CUST192,Customer_156,2026-01-18,East,Odisha,Office Supplies,Pen Set,4,8853,35412,15,3755.14,Priya,Net Banking
+ORD0186,CUST020,Customer_235,2025-04-25,South,Karnataka,Office Supplies,Printer Paper,9,29378,264402,20,52785.28,Amit,Card
+ORD0187,CUST126,Customer_24,2026-06-07,South,Karnataka,Furniture,Cabinet,2,44683,89366,5,18040.86,Priya,UPI
+ORD0188,CUST173,Customer_207,2025-11-12,West,Maharashtra,Office Supplies,Notebook,8,37056,296448,0,51877.07,Amit,Net Banking
+ORD0189,CUST180,Customer_17,2025-03-03,East,West Bengal,Office Supplies,Pen Set,10,4886,48860,0,7428.12,Amit,Net Banking
+ORD0190,CUST098,Customer_115,2026-01-22,North,Punjab,Furniture,Desk,13,8975,116675,15,16761.34,Priya,UPI
+ORD0191,CUST187,Customer_58,2025-01-04,South,Telangana,Furniture,Chair,3,35309,105927,15,17997.34,Amit,Cash
+ORD0192,CUST089,Customer_40,2025-10-10,West,Rajasthan,Office Supplies,Notebook,9,24956,224604,5,27418.99,Neha,UPI
+ORD0193,CUST009,Customer_115,2025-02-19,North,Haryana,Furniture,Chair,4,13605,54420,0,5287.04,Neha,UPI
+ORD0194,CUST075,Customer_60,2025-11-23,West,Gujarat,Electronics,Mobile,13,3799,49387,5,8181.56,Karan,Cash
+ORD0195,CUST152,Customer_226,2025-06-29,South,Tamil Nadu,Electronics,Mobile,7,19793,138551,10,12519.86,Priya,Net Banking
+ORD0196,CUST105,Customer_39,2025-11-04,North,Punjab,Office Supplies,Notebook,13,34471,448123,10,88895.25,Priya,Card
+ORD0197,CUST015,Customer_144,2026-02-27,West,Maharashtra,Electronics,Tablet,14,46471,650594,5,141167.15,Priya,Card
+ORD0198,CUST095,Customer_24,2025-07-15,West,Maharashtra,Furniture,Desk,6,42482,254892,0,60352.93,Amit,Cash
+ORD0199,CUST151,Customer_186,2025-08-11,West,Rajasthan,Office Supplies,Printer Paper,14,4869,68166,5,14777.75,Priya,Card
+ORD0200,CUST194,Customer_123,2025-09-06,East,Odisha,Electronics,Mobile,15,12553,188295,0,38971.32,Karan,Card
+ORD0201,CUST167,Customer_92,2025-11-12,West,Maharashtra,Office Supplies,Stapler,13,18650,242450,15,38613.21,Raj,Cash
+ORD0202,CUST106,Customer_12,2025-08-15,West,Gujarat,Electronics,Monitor,13,21086,274118,5,39204.31,Neha,UPI
+ORD0203,CUST098,Customer_146,2025-09-09,East,Bihar,Office Supplies,Notebook,5,10088,50440,5,6863.73,Priya,Cash
+ORD0204,CUST185,Customer_140,2026-05-16,East,Odisha,Office Supplies,Notebook,8,11125,89000,10,9680.99,Neha,UPI
+ORD0205,CUST162,Customer_60,2025-03-11,North,Delhi,Office Supplies,Printer Paper,13,518,6734,15,696.12,Neha,UPI
+ORD0206,CUST169,Customer_125,2025-01-17,South,Telangana,Furniture,Table,1,40590,40590,20,9545.46,Amit,Net Banking
+ORD0207,CUST179,Customer_173,2026-03-17,North,Delhi,Office Supplies,Stapler,9,18888,169992,0,28112.72,Neha,UPI
+ORD0208,CUST091,Customer_69,2026-02-11,North,Haryana,Electronics,Mobile,4,40717,162868,20,20018.28,Amit,Cash
+ORD0209,CUST021,Customer_168,2025-02-02,West,Gujarat,Office Supplies,Pen Set,12,14901,178812,10,35098.48,Amit,Net Banking
+ORD0210,CUST022,Customer_128,2026-03-21,West,Gujarat,Office Supplies,Notebook,1,41829,41829,0,8344.2,Raj,UPI
+ORD0211,CUST072,Customer_231,2025-02-03,North,Delhi,Electronics,Monitor,5,3151,15755,0,3093.54,Neha,Cash
+ORD0212,CUST077,Customer_42,2025-09-04,North,Delhi,Office Supplies,Pen Set,13,46808,608504,15,144768.42,Karan,Net Banking
+ORD0213,CUST089,Customer_14,2025-04-11,East,Odisha,Office Supplies,Pen Set,13,45274,588562,0,97192.06,Priya,Card
+ORD0214,CUST116,Customer_126,2025-08-22,North,Punjab,Office Supplies,Notebook,13,21489,279357,0,52463.5,Raj,Net Banking
+ORD0215,CUST183,Customer_19,2025-03-26,West,Maharashtra,Office Supplies,Notebook,2,40641,81282,10,17530.04,Raj,Card
+ORD0216,CUST024,Customer_2,2025-11-12,West,Rajasthan,Office Supplies,Pen Set,12,25634,307608,10,43470.87,Priya,Cash
+ORD0217,CUST132,Customer_105,2025-04-16,East,West Bengal,Electronics,Laptop,3,28344,85032,15,14854.02,Amit,UPI
+ORD0218,CUST100,Customer_200,2025-03-28,East,Bihar,Electronics,Tablet,14,25346,354844,0,45992.77,Karan,Card
+ORD0219,CUST038,Customer_17,2025-06-21,South,Telangana,Furniture,Desk,3,17723,53169,10,6679.58,Priya,Cash
+ORD0220,CUST127,Customer_153,2025-07-20,West,Gujarat,Furniture,Chair,6,16595,99570,5,20168.19,Priya,UPI
+ORD0221,CUST085,Customer_113,2025-12-09,South,Tamil Nadu,Electronics,Monitor,6,40744,244464,15,52973.64,Priya,Card
+ORD0222,CUST082,Customer_75,2026-05-18,East,Odisha,Office Supplies,Pen Set,8,20690,165520,5,40383.19,Karan,Card
+ORD0223,CUST140,Customer_47,2025-01-28,East,Odisha,Furniture,Cabinet,6,7563,45378,20,5171.55,Priya,Card
+ORD0224,CUST078,Customer_62,2025-09-16,West,Gujarat,Office Supplies,Printer Paper,14,26913,376782,15,39057.39,Neha,Net Banking
+ORD0225,CUST178,Customer_108,2025-02-07,West,Maharashtra,Furniture,Cabinet,10,26367,263670,20,43801.95,Raj,UPI
+ORD0226,CUST166,Customer_174,2026-02-14,North,Delhi,Office Supplies,Stapler,3,42501,127503,20,11160.39,Raj,Net Banking
+ORD0227,CUST177,Customer_148,2025-08-15,North,Delhi,Electronics,Tablet,4,33567,134268,20,23477.95,Priya,Cash
+ORD0228,CUST107,Customer_236,2025-03-29,West,Gujarat,Office Supplies,Pen Set,6,1709,10254,15,1002.57,Amit,Card
+ORD0229,CUST122,Customer_25,2026-03-25,East,Odisha,Furniture,Cabinet,13,13657,177541,20,28778.94,Priya,Cash
+ORD0230,CUST043,Customer_239,2025-09-07,North,Punjab,Electronics,Laptop,1,22583,22583,0,4406.25,Karan,Card
+ORD0231,CUST048,Customer_164,2026-03-19,South,Tamil Nadu,Office Supplies,Notebook,8,15294,122352,15,22887.07,Priya,UPI
+ORD0232,CUST193,Customer_181,2025-03-06,South,Tamil Nadu,Office Supplies,Notebook,7,391,2737,5,314.71,Karan,UPI
+ORD0233,CUST126,Customer_136,2025-11-17,South,Tamil Nadu,Furniture,Desk,8,7568,60544,10,11746.7,Karan,Net Banking
+ORD0234,CUST173,Customer_181,2025-11-01,West,Rajasthan,Electronics,Tablet,6,30106,180636,20,19748.88,Karan,UPI
+ORD0235,CUST037,Customer_131,2026-02-02,South,Tamil Nadu,Electronics,Mobile,5,7764,38820,5,5569.2,Priya,Card
+ORD0236,CUST126,Customer_74,2025-05-24,West,Gujarat,Electronics,Monitor,11,35317,388487,5,67726.93,Neha,Cash
+ORD0237,CUST099,Customer_247,2026-06-02,West,Rajasthan,Electronics,Tablet,1,31859,31859,5,3605.54,Priya,Net Banking
+ORD0238,CUST195,Customer_57,2025-10-27,West,Gujarat,Office Supplies,Notebook,8,11061,88488,0,15584.3,Amit,Cash
+ORD0239,CUST197,Customer_127,2026-06-08,South,Telangana,Furniture,Desk,13,30071,390923,20,80619.31,Amit,UPI
+ORD0240,CUST109,Customer_27,2025-09-11,East,Bihar,Furniture,Chair,13,47219,613847,15,106121.9,Raj,UPI
+ORD0241,CUST189,Customer_151,2025-12-26,West,Gujarat,Furniture,Chair,8,7793,62344,5,7211.91,Karan,Net Banking
+ORD0242,CUST137,Customer_72,2025-06-22,South,Telangana,Electronics,Mobile,14,13662,191268,0,33837.73,Raj,Cash
+ORD0243,CUST071,Customer_222,2025-05-10,East,Bihar,Furniture,Chair,3,49258,147774,15,34902.84,Neha,Card
+ORD0244,CUST148,Customer_162,2025-10-03,South,Telangana,Furniture,Desk,13,44417,577421,15,94239.72,Priya,Net Banking
+ORD0245,CUST095,Customer_117,2026-05-15,West,Maharashtra,Office Supplies,Printer Paper,7,33891,237237,10,46996.56,Raj,UPI
+ORD0246,CUST110,Customer_212,2025-08-05,North,Haryana,Furniture,Table,14,4250,59500,20,8782.9,Priya,Cash
+ORD0247,CUST196,Customer_13,2025-02-17,East,Odisha,Furniture,Desk,10,31907,319070,10,74026.25,Amit,Net Banking
+ORD0248,CUST177,Customer_233,2025-05-16,North,Delhi,Electronics,Monitor,8,144,1152,15,131.78,Raj,Card
+ORD0249,CUST167,Customer_43,2025-02-23,East,West Bengal,Office Supplies,Stapler,5,5501,27505,10,5307.54,Priya,Cash
+ORD0250,CUST020,Customer_34,2025-08-20,South,Tamil Nadu,Office Supplies,Printer Paper,12,6337,76044,0,8842.52,Karan,Net Banking
+ORD0251,CUST123,Customer_19,2025-08-23,North,Delhi,Office Supplies,Stapler,14,8003,112042,15,22182.67,Priya,UPI
+ORD0252,CUST193,Customer_224,2025-05-17,North,Delhi,Furniture,Table,15,19711,295665,5,42889.93,Neha,UPI
+ORD0253,CUST039,Customer_236,2026-02-26,North,Haryana,Office Supplies,Pen Set,8,23115,184920,5,34538.18,Karan,Net Banking
+ORD0254,CUST090,Customer_247,2026-03-16,South,Karnataka,Electronics,Mobile,13,8171,106223,20,21680.28,Raj,Card
+ORD0255,CUST156,Customer_73,2025-01-28,South,Tamil Nadu,Office Supplies,Printer Paper,4,36367,145468,20,26475.37,Raj,Card
+ORD0256,CUST029,Customer_62,2026-05-27,South,Telangana,Furniture,Table,11,3676,40436,5,6636.8,Karan,UPI
+ORD0257,CUST175,Customer_45,2026-04-28,North,Punjab,Furniture,Desk,7,37349,261443,15,37156.31,Amit,UPI
+ORD0258,CUST161,Customer_183,2026-05-29,North,Delhi,Furniture,Desk,1,4062,4062,15,674.79,Priya,Net Banking
+ORD0259,CUST053,Customer_250,2025-06-09,West,Maharashtra,Office Supplies,Pen Set,5,5578,27890,10,2605.86,Karan,Cash
+ORD0260,CUST062,Customer_15,2025-09-08,West,Rajasthan,Office Supplies,Printer Paper,5,45888,229440,15,46827.08,Amit,Net Banking
+ORD0261,CUST182,Customer_36,2025-01-12,North,Punjab,Office Supplies,Printer Paper,5,43752,218760,5,21942.79,Neha,Net Banking
+ORD0262,CUST069,Customer_188,2025-05-01,East,Bihar,Office Supplies,Stapler,3,24470,73410,5,15229.78,Amit,Cash
+ORD0263,CUST128,Customer_117,2026-06-08,West,Gujarat,Office Supplies,Printer Paper,5,46782,233910,20,43666.45,Raj,UPI
+ORD0264,CUST173,Customer_186,2025-04-29,West,Rajasthan,Electronics,Tablet,3,16819,50457,0,11707.32,Neha,UPI
+ORD0265,CUST046,Customer_239,2025-02-06,North,Delhi,Electronics,Laptop,8,23953,191624,15,45307.29,Karan,Net Banking
+ORD0266,CUST020,Customer_147,2026-01-17,South,Tamil Nadu,Electronics,Monitor,15,47304,709560,10,89485.35,Amit,UPI
+ORD0267,CUST199,Customer_217,2025-11-15,South,Karnataka,Office Supplies,Printer Paper,7,4617,32319,15,7343.7,Raj,UPI
+ORD0268,CUST063,Customer_119,2026-01-13,West,Maharashtra,Furniture,Desk,5,37049,185245,10,38110.07,Karan,Net Banking
+ORD0269,CUST139,Customer_89,2025-01-10,South,Telangana,Office Supplies,Pen Set,3,517,1551,15,130.38,Raj,UPI
+ORD0270,CUST108,Customer_126,2025-03-03,West,Rajasthan,Office Supplies,Stapler,2,13547,27094,20,6695.73,Neha,Cash
+ORD0271,CUST022,Customer_149,2025-04-08,North,Delhi,Electronics,Monitor,12,24511,294132,15,72260.68,Karan,Card
+ORD0272,CUST067,Customer_218,2025-11-19,West,Maharashtra,Office Supplies,Printer Paper,7,43513,304591,5,36627.43,Priya,Cash
+ORD0273,CUST150,Customer_28,2025-06-09,East,Odisha,Furniture,Desk,2,13384,26768,5,5690.59,Amit,Card
+ORD0274,CUST054,Customer_116,2025-11-12,West,Gujarat,Furniture,Cabinet,2,35222,70444,10,17187.48,Priya,Cash
+ORD0275,CUST084,Customer_38,2025-04-04,North,Delhi,Electronics,Tablet,14,46283,647962,20,56279.43,Neha,Cash
+ORD0276,CUST116,Customer_143,2025-09-13,West,Rajasthan,Electronics,Tablet,5,11494,57470,0,13899.49,Amit,Net Banking
+ORD0277,CUST103,Customer_96,2025-03-28,North,Delhi,Electronics,Laptop,1,14667,14667,5,1667.38,Karan,Cash
+ORD0278,CUST024,Customer_232,2025-12-06,North,Delhi,Electronics,Mobile,15,42435,636525,15,138495.6,Amit,UPI
+ORD0279,CUST098,Customer_175,2026-03-13,West,Maharashtra,Electronics,Monitor,14,47576,666064,15,109461.95,Neha,Cash
+ORD0280,CUST158,Customer_63,2025-10-30,South,Karnataka,Furniture,Table,8,9840,78720,0,14515.82,Priya,Net Banking
+ORD0281,CUST135,Customer_64,2025-01-20,West,Maharashtra,Electronics,Tablet,7,9093,63651,15,7250.35,Priya,Cash
+ORD0282,CUST070,Customer_47,2025-01-27,West,Rajasthan,Furniture,Table,15,37170,557550,20,75086.79,Raj,Card
+ORD0283,CUST041,Customer_26,2025-09-11,North,Punjab,Electronics,Monitor,9,23524,211716,20,52914.81,Neha,Cash
+ORD0284,CUST082,Customer_207,2026-01-03,North,Delhi,Office Supplies,Notebook,6,11484,68904,5,8283.2,Karan,UPI
+ORD0285,CUST045,Customer_126,2025-02-08,East,Bihar,Office Supplies,Pen Set,10,12436,124360,15,21409.96,Amit,UPI
+ORD0286,CUST158,Customer_52,2025-05-14,South,Telangana,Electronics,Laptop,9,31425,282825,0,38575.85,Raj,Card
+ORD0287,CUST135,Customer_221,2026-01-09,East,West Bengal,Electronics,Mobile,10,46282,462820,5,97952.29,Amit,Cash
+ORD0288,CUST188,Customer_243,2026-03-24,West,Rajasthan,Electronics,Tablet,5,21242,106210,5,26116.65,Priya,Cash
+ORD0289,CUST097,Customer_79,2025-10-29,South,Telangana,Office Supplies,Stapler,4,43716,174864,20,38200.3,Neha,Card
+ORD0290,CUST082,Customer_236,2025-08-15,North,Haryana,Office Supplies,Notebook,14,37290,522060,0,57924.59,Karan,UPI
+ORD0291,CUST023,Customer_211,2025-12-10,West,Maharashtra,Furniture,Chair,4,22828,91312,10,9911.08,Priya,UPI
+ORD0292,CUST013,Customer_99,2026-03-25,East,West Bengal,Electronics,Laptop,6,16920,101520,0,20554.79,Priya,Card
+ORD0293,CUST148,Customer_167,2025-08-19,West,Gujarat,Furniture,Table,9,24698,222282,0,49101.47,Neha,Net Banking
+ORD0294,CUST044,Customer_228,2026-01-20,North,Delhi,Furniture,Chair,6,17213,103278,0,9565.0,Neha,UPI
+ORD0295,CUST043,Customer_156,2026-03-21,North,Punjab,Office Supplies,Notebook,12,2131,25572,15,6142.78,Neha,UPI
+ORD0296,CUST187,Customer_139,2025-09-29,North,Punjab,Electronics,Mobile,7,45791,320537,20,64987.75,Raj,Cash
+ORD0297,CUST093,Customer_1,2026-03-14,South,Karnataka,Electronics,Monitor,10,36122,361220,15,38329.16,Amit,Cash
+ORD0298,CUST122,Customer_217,2025-04-29,West,Maharashtra,Electronics,Laptop,4,11295,45180,10,11118.79,Raj,Net Banking
+ORD0299,CUST095,Customer_227,2026-01-26,West,Gujarat,Office Supplies,Stapler,2,42165,84330,20,12302.03,Raj,Card
+ORD0300,CUST145,Customer_16,2025-06-04,West,Maharashtra,Furniture,Cabinet,8,17362,138896,5,30877.05,Amit,UPI
+ORD0301,CUST108,Customer_248,2026-05-02,East,Bihar,Furniture,Desk,9,4096,36864,15,8077.97,Karan,Card
+ORD0302,CUST133,Customer_205,2025-05-31,West,Gujarat,Electronics,Monitor,15,46912,703680,0,116358.59,Amit,Net Banking
+ORD0303,CUST175,Customer_112,2025-07-26,South,Karnataka,Electronics,Mobile,3,2896,8688,15,810.79,Neha,Cash
+ORD0304,CUST071,Customer_134,2026-04-15,East,Bihar,Electronics,Laptop,7,36561,255927,15,44492.71,Amit,Net Banking
+ORD0305,CUST026,Customer_237,2025-04-19,North,Punjab,Electronics,Mobile,10,38630,386300,20,80707.4,Karan,UPI
+ORD0306,CUST122,Customer_10,2025-06-26,East,Bihar,Furniture,Cabinet,5,25203,126015,15,22335.4,Raj,Net Banking
+ORD0307,CUST013,Customer_191,2026-05-02,South,Telangana,Office Supplies,Notebook,1,26038,26038,10,5139.57,Raj,Cash
+ORD0308,CUST059,Customer_35,2025-11-04,North,Punjab,Furniture,Table,5,32318,161590,0,39641.97,Priya,Cash
+ORD0309,CUST105,Customer_190,2026-05-12,East,Bihar,Furniture,Chair,4,29048,116192,5,27338.07,Karan,Cash
+ORD0310,CUST200,Customer_218,2026-06-21,North,Haryana,Electronics,Laptop,5,46602,233010,20,34619.57,Karan,UPI
+ORD0311,CUST093,Customer_181,2025-07-23,South,Karnataka,Electronics,Laptop,4,2267,9068,15,803.38,Raj,Cash
+ORD0312,CUST153,Customer_115,2025-07-01,West,Rajasthan,Furniture,Chair,11,2102,23122,5,3313.83,Priya,Cash
+ORD0313,CUST147,Customer_200,2025-08-08,East,West Bengal,Furniture,Chair,5,1898,9490,15,839.3,Neha,Card
+ORD0314,CUST034,Customer_166,2025-06-27,South,Tamil Nadu,Office Supplies,Notebook,9,1414,12726,0,2043.75,Karan,UPI
+ORD0315,CUST097,Customer_219,2025-12-24,South,Tamil Nadu,Office Supplies,Stapler,12,46589,559068,10,85004.7,Priya,Cash
+ORD0316,CUST170,Customer_248,2026-01-19,South,Tamil Nadu,Furniture,Cabinet,10,6805,68050,0,11361.45,Karan,Cash
+ORD0317,CUST071,Customer_67,2025-11-02,East,Bihar,Electronics,Monitor,2,22138,44276,10,8363.79,Neha,Card
+ORD0318,CUST168,Customer_128,2025-10-30,South,Karnataka,Office Supplies,Notebook,11,21044,231484,5,46902.86,Raj,Net Banking
+ORD0319,CUST088,Customer_186,2025-08-16,West,Gujarat,Office Supplies,Printer Paper,10,46504,465040,20,101714.71,Karan,Net Banking
+ORD0320,CUST025,Customer_121,2025-05-12,East,Bihar,Furniture,Desk,14,43197,604758,20,67003.01,Raj,Card
+ORD0321,CUST085,Customer_96,2025-09-24,East,Bihar,Electronics,Mobile,6,14736,88416,10,13393.29,Karan,Cash
+ORD0322,CUST159,Customer_19,2026-04-29,West,Maharashtra,Furniture,Chair,14,41675,583450,20,104235.23,Neha,UPI
+ORD0323,CUST088,Customer_105,2026-04-14,West,Rajasthan,Furniture,Cabinet,1,9981,9981,5,2482.27,Neha,Cash
+ORD0324,CUST002,Customer_116,2025-10-08,South,Karnataka,Furniture,Table,11,11688,128568,10,24153.4,Neha,Card
+ORD0325,CUST123,Customer_99,2025-01-05,South,Tamil Nadu,Electronics,Mobile,10,28523,285230,15,42378.59,Amit,Card
+ORD0326,CUST064,Customer_58,2025-12-19,East,West Bengal,Furniture,Desk,1,44451,44451,0,8291.75,Raj,Card
+ORD0327,CUST075,Customer_117,2026-06-17,North,Punjab,Office Supplies,Stapler,3,4378,13134,0,1716.54,Karan,Cash
+ORD0328,CUST043,Customer_243,2026-02-18,West,Rajasthan,Electronics,Tablet,15,32224,483360,10,100306.7,Amit,Card
+ORD0329,CUST032,Customer_94,2025-02-08,South,Telangana,Electronics,Mobile,12,1536,18432,20,3055.8,Priya,Cash
+ORD0330,CUST107,Customer_114,2026-01-25,North,Haryana,Electronics,Laptop,11,1393,15323,0,3022.58,Amit,Cash
+ORD0331,CUST170,Customer_26,2026-06-17,West,Rajasthan,Electronics,Mobile,12,45040,540480,0,70905.46,Raj,Card
+ORD0332,CUST156,Customer_52,2025-09-27,West,Maharashtra,Office Supplies,Printer Paper,5,7571,37855,0,6231.53,Karan,Card
+ORD0333,CUST054,Customer_177,2026-05-08,East,Bihar,Furniture,Table,3,2682,8046,20,1322.6,Raj,Card
+ORD0334,CUST039,Customer_244,2025-04-03,North,Delhi,Office Supplies,Printer Paper,15,7337,110055,20,21321.37,Karan,UPI
+ORD0335,CUST026,Customer_209,2025-06-28,North,Punjab,Office Supplies,Pen Set,8,19500,156000,10,24792.64,Amit,Cash
+ORD0336,CUST012,Customer_3,2025-05-22,East,Bihar,Furniture,Cabinet,12,7695,92340,0,20749.89,Neha,Cash
+ORD0337,CUST088,Customer_47,2025-04-27,East,Odisha,Office Supplies,Stapler,15,48142,722130,0,103514.28,Priya,Net Banking
+ORD0338,CUST179,Customer_186,2025-03-02,West,Gujarat,Furniture,Cabinet,13,27739,360607,5,35779.29,Neha,UPI
+ORD0339,CUST157,Customer_8,2025-05-14,West,Rajasthan,Furniture,Cabinet,3,40163,120489,15,25598.84,Priya,Net Banking
+ORD0340,CUST174,Customer_135,2025-08-18,North,Punjab,Furniture,Chair,2,17245,34490,10,2831.67,Raj,UPI
+ORD0341,CUST143,Customer_229,2025-02-25,West,Rajasthan,Office Supplies,Pen Set,8,22759,182072,15,19166.95,Amit,Card
+ORD0342,CUST072,Customer_13,2026-06-04,West,Gujarat,Electronics,Laptop,13,32320,420160,10,50819.03,Neha,Net Banking
+ORD0343,CUST128,Customer_115,2025-11-20,West,Maharashtra,Electronics,Monitor,8,37654,301232,15,28606.01,Amit,Net Banking
+ORD0344,CUST024,Customer_203,2025-11-08,North,Delhi,Furniture,Cabinet,1,36612,36612,20,2930.02,Karan,Card
+ORD0345,CUST197,Customer_159,2026-04-30,West,Gujarat,Furniture,Chair,14,14709,205926,15,28095.59,Raj,Net Banking
+ORD0346,CUST075,Customer_141,2026-06-19,North,Delhi,Office Supplies,Pen Set,1,22471,22471,10,4967.89,Raj,UPI
+ORD0347,CUST157,Customer_51,2025-07-12,North,Delhi,Furniture,Desk,14,47079,659106,15,64713.3,Amit,Net Banking
+ORD0348,CUST163,Customer_215,2025-05-07,South,Tamil Nadu,Electronics,Tablet,2,49720,99440,15,8741.28,Priya,Net Banking
+ORD0349,CUST131,Customer_200,2025-07-01,South,Tamil Nadu,Electronics,Laptop,9,28464,256176,20,41525.73,Karan,Card
+ORD0350,CUST178,Customer_196,2025-09-12,South,Karnataka,Furniture,Table,9,25309,227781,15,56151.46,Raj,Net Banking
+ORD0351,CUST192,Customer_132,2025-11-03,East,Odisha,Furniture,Desk,3,27149,81447,20,16208.15,Karan,Cash
+ORD0352,CUST167,Customer_250,2025-07-02,South,Karnataka,Electronics,Tablet,11,22729,250019,5,61711.45,Karan,Cash
+ORD0353,CUST137,Customer_74,2026-03-09,North,Punjab,Office Supplies,Notebook,10,37497,374970,15,72977.18,Amit,UPI
+ORD0354,CUST042,Customer_74,2025-09-14,North,Punjab,Electronics,Laptop,11,3809,41899,5,5253.56,Neha,UPI
+ORD0355,CUST173,Customer_190,2025-08-18,East,West Bengal,Office Supplies,Printer Paper,6,29761,178566,0,32988.02,Karan,Net Banking
+ORD0356,CUST100,Customer_107,2025-11-17,South,Telangana,Office Supplies,Stapler,12,43648,523776,0,124398.07,Karan,UPI
+ORD0357,CUST181,Customer_182,2026-01-12,North,Haryana,Furniture,Desk,10,29136,291360,5,68455.81,Karan,Card
+ORD0358,CUST189,Customer_132,2025-05-03,South,Tamil Nadu,Furniture,Desk,11,4980,54780,5,13345.55,Priya,UPI
+ORD0359,CUST002,Customer_85,2026-04-23,West,Gujarat,Office Supplies,Stapler,3,10646,31938,20,7148.44,Neha,UPI
+ORD0360,CUST078,Customer_126,2026-01-02,South,Tamil Nadu,Office Supplies,Printer Paper,13,41084,534092,20,119280.79,Amit,Cash
+ORD0361,CUST138,Customer_104,2025-04-05,South,Karnataka,Office Supplies,Printer Paper,13,33204,431652,5,65053.54,Raj,Card
+ORD0362,CUST159,Customer_136,2026-05-02,South,Telangana,Furniture,Table,6,19339,116034,5,28028.29,Karan,UPI
+ORD0363,CUST063,Customer_246,2025-02-10,North,Haryana,Furniture,Cabinet,4,42191,168764,20,39855.85,Raj,Net Banking
+ORD0364,CUST131,Customer_115,2026-05-14,North,Punjab,Furniture,Table,1,33973,33973,10,5688.19,Amit,Cash
+ORD0365,CUST161,Customer_17,2025-08-04,South,Tamil Nadu,Office Supplies,Printer Paper,2,11070,22140,20,3778.08,Neha,Net Banking
+ORD0366,CUST184,Customer_85,2025-02-08,North,Delhi,Office Supplies,Notebook,11,4826,53086,5,4461.24,Amit,UPI
+ORD0367,CUST116,Customer_162,2026-02-19,North,Delhi,Furniture,Chair,10,15018,150180,10,22421.51,Priya,Cash
+ORD0368,CUST191,Customer_150,2025-02-16,North,Punjab,Office Supplies,Printer Paper,9,486,4374,20,396.94,Amit,Cash
+ORD0369,CUST113,Customer_98,2026-02-09,North,Punjab,Office Supplies,Stapler,10,5769,57690,10,12120.47,Amit,Net Banking
+ORD0370,CUST163,Customer_37,2025-11-02,South,Telangana,Electronics,Mobile,12,25724,308688,20,40174.61,Raj,UPI
+ORD0371,CUST022,Customer_79,2025-08-04,South,Karnataka,Electronics,Laptop,10,39202,392020,15,67159.24,Raj,Card
+ORD0372,CUST065,Customer_50,2025-04-28,West,Rajasthan,Office Supplies,Pen Set,3,12158,36474,5,6742.96,Neha,UPI
+ORD0373,CUST051,Customer_186,2026-05-14,West,Rajasthan,Office Supplies,Printer Paper,5,44119,220595,0,27048.67,Raj,Cash
+ORD0374,CUST050,Customer_82,2026-05-13,South,Telangana,Office Supplies,Pen Set,2,18786,37572,20,3451.65,Priya,Cash
+ORD0375,CUST110,Customer_44,2025-01-05,East,Bihar,Office Supplies,Pen Set,10,37249,372490,10,80945.41,Raj,Card
+ORD0376,CUST085,Customer_225,2026-05-07,South,Telangana,Office Supplies,Notebook,5,23659,118295,5,23130.06,Priya,Net Banking
+ORD0377,CUST072,Customer_220,2025-05-24,East,Odisha,Furniture,Chair,3,42406,127218,20,11950.29,Karan,Card
+ORD0378,CUST162,Customer_8,2026-02-19,East,Bihar,Office Supplies,Printer Paper,12,5041,60492,0,13576.21,Karan,Card
+ORD0379,CUST198,Customer_151,2025-10-25,North,Haryana,Furniture,Cabinet,11,9840,108240,10,15881.48,Neha,Net Banking
+ORD0380,CUST194,Customer_132,2025-05-24,North,Punjab,Furniture,Chair,11,15755,173305,20,34021.07,Priya,Card
+ORD0381,CUST011,Customer_57,2026-05-15,South,Telangana,Office Supplies,Pen Set,12,48072,576864,15,138251.11,Neha,UPI
+ORD0382,CUST093,Customer_100,2026-04-26,East,Odisha,Electronics,Laptop,11,13651,150161,20,35184.74,Priya,UPI
+ORD0383,CUST068,Customer_149,2025-06-28,North,Haryana,Furniture,Chair,12,34268,411216,10,91260.46,Priya,Net Banking
+ORD0384,CUST058,Customer_133,2026-02-20,East,Bihar,Office Supplies,Printer Paper,9,16587,149283,15,36627.27,Raj,Cash
+ORD0385,CUST020,Customer_132,2025-10-15,West,Gujarat,Office Supplies,Printer Paper,9,9207,82863,15,8961.88,Neha,Card
+ORD0386,CUST185,Customer_30,2026-05-09,South,Karnataka,Furniture,Chair,11,15195,167145,15,36420.79,Priya,Net Banking
+ORD0387,CUST152,Customer_42,2025-05-18,South,Telangana,Electronics,Monitor,1,16069,16069,0,1634.87,Karan,UPI
+ORD0388,CUST154,Customer_249,2025-01-20,South,Karnataka,Electronics,Tablet,15,11898,178470,20,43350.46,Raj,UPI
+ORD0389,CUST106,Customer_154,2025-05-27,South,Tamil Nadu,Office Supplies,Notebook,14,31666,443324,5,51998.29,Karan,Card
+ORD0390,CUST059,Customer_97,2026-01-30,East,West Bengal,Office Supplies,Stapler,15,29818,447270,20,80688.1,Neha,UPI
+ORD0391,CUST122,Customer_231,2025-02-09,North,Delhi,Office Supplies,Notebook,14,9901,138614,20,13358.34,Karan,UPI
+ORD0392,CUST199,Customer_174,2026-03-18,North,Punjab,Office Supplies,Pen Set,15,39649,594735,20,131245.35,Karan,Net Banking
+ORD0393,CUST190,Customer_233,2025-04-11,East,West Bengal,Office Supplies,Notebook,4,31696,126784,15,17697.53,Priya,Card
+ORD0394,CUST049,Customer_2,2025-01-08,East,Odisha,Electronics,Laptop,5,39309,196545,20,29377.57,Karan,UPI
+ORD0395,CUST040,Customer_110,2025-09-17,North,Punjab,Office Supplies,Pen Set,12,20802,249624,15,35343.23,Raj,Net Banking
+ORD0396,CUST143,Customer_124,2025-07-03,East,Bihar,Furniture,Cabinet,13,13449,174837,15,30396.78,Raj,Net Banking
+ORD0397,CUST169,Customer_31,2025-08-24,East,Odisha,Office Supplies,Stapler,13,46335,602355,15,123532.78,Priya,Card
+ORD0398,CUST176,Customer_181,2025-02-23,North,Delhi,Office Supplies,Notebook,13,22279,289627,20,53402.68,Neha,Net Banking
+ORD0399,CUST068,Customer_57,2026-01-15,North,Delhi,Electronics,Monitor,15,39437,591555,15,56188.21,Amit,UPI
+ORD0400,CUST045,Customer_164,2026-05-22,West,Gujarat,Office Supplies,Stapler,12,39255,471060,0,113417.92,Priya,UPI
+ORD0401,CUST179,Customer_60,2025-06-23,South,Telangana,Office Supplies,Stapler,4,2302,9208,20,1535.83,Amit,Cash
+ORD0402,CUST102,Customer_104,2025-07-25,South,Telangana,Electronics,Mobile,2,18183,36366,15,5092.39,Karan,UPI
+ORD0403,CUST071,Customer_58,2025-07-19,North,Delhi,Office Supplies,Stapler,12,36742,440904,20,61363.34,Priya,Net Banking
+ORD0404,CUST076,Customer_88,2025-04-30,North,Punjab,Electronics,Monitor,9,7077,63693,20,5879.22,Karan,Cash
+ORD0405,CUST199,Customer_118,2026-04-17,East,Bihar,Furniture,Cabinet,10,31795,317950,5,66378.57,Karan,UPI
+ORD0406,CUST059,Customer_205,2025-11-20,West,Maharashtra,Furniture,Chair,7,41627,291389,5,56842.77,Priya,Cash
+ORD0407,CUST088,Customer_20,2025-07-02,North,Haryana,Furniture,Desk,5,6195,30975,15,6025.52,Priya,Cash
+ORD0408,CUST052,Customer_61,2025-09-05,East,West Bengal,Office Supplies,Stapler,3,49000,147000,5,24229.99,Raj,Card
+ORD0409,CUST174,Customer_245,2026-05-20,South,Karnataka,Electronics,Tablet,3,7091,21273,0,5029.62,Karan,UPI
+ORD0410,CUST196,Customer_235,2026-06-08,North,Punjab,Furniture,Table,8,37751,302008,10,49359.25,Raj,Net Banking
+ORD0411,CUST009,Customer_129,2025-12-22,South,Telangana,Electronics,Laptop,9,27833,250497,15,60054.46,Priya,Card
+ORD0412,CUST054,Customer_98,2025-04-14,West,Maharashtra,Office Supplies,Notebook,6,45268,271608,0,22274.41,Raj,Cash
+ORD0413,CUST088,Customer_94,2025-07-08,East,West Bengal,Office Supplies,Stapler,4,17755,71020,15,17254.28,Priya,Net Banking
+ORD0414,CUST147,Customer_34,2025-08-23,South,Tamil Nadu,Office Supplies,Stapler,6,26353,158118,10,24765.06,Amit,Cash
+ORD0415,CUST003,Customer_46,2026-03-08,South,Telangana,Furniture,Cabinet,4,9658,38632,5,6196.87,Priya,Card
+ORD0416,CUST177,Customer_42,2025-03-03,East,Odisha,Furniture,Table,9,37313,335817,0,49609.68,Neha,Cash
+ORD0417,CUST144,Customer_143,2025-09-21,West,Rajasthan,Electronics,Monitor,12,22032,264384,10,37374.26,Raj,UPI
+ORD0418,CUST200,Customer_73,2025-12-30,West,Maharashtra,Furniture,Desk,10,37841,378410,20,41500.83,Raj,Net Banking
+ORD0419,CUST164,Customer_207,2025-12-12,West,Maharashtra,Furniture,Table,8,41499,331992,5,75562.64,Priya,Net Banking
+ORD0420,CUST182,Customer_69,2026-02-09,North,Delhi,Electronics,Tablet,4,20644,82576,10,15773.03,Raj,Net Banking
+ORD0421,CUST033,Customer_187,2025-08-29,East,Bihar,Office Supplies,Notebook,7,11065,77455,5,17444.11,Raj,UPI
+ORD0422,CUST007,Customer_198,2026-02-11,South,Karnataka,Furniture,Chair,2,4280,8560,15,1482.88,Karan,UPI
+ORD0423,CUST064,Customer_189,2025-10-18,North,Punjab,Office Supplies,Pen Set,2,43015,86030,15,11406.98,Priya,Card
+ORD0424,CUST084,Customer_222,2026-05-03,South,Telangana,Electronics,Laptop,1,43586,43586,10,9861.89,Priya,Cash
+ORD0425,CUST163,Customer_225,2026-03-22,West,Maharashtra,Office Supplies,Pen Set,10,39263,392630,15,73530.99,Karan,Cash
+ORD0426,CUST106,Customer_67,2025-06-09,East,Odisha,Office Supplies,Pen Set,13,5969,77597,15,10269.0,Raj,UPI
+ORD0427,CUST126,Customer_243,2026-05-04,North,Haryana,Electronics,Tablet,5,30849,154245,20,12557.69,Raj,UPI
+ORD0428,CUST106,Customer_226,2026-03-24,West,Gujarat,Office Supplies,Pen Set,13,573,7449,20,1069.08,Priya,Card
+ORD0429,CUST109,Customer_161,2025-09-03,South,Telangana,Office Supplies,Notebook,14,24896,348544,5,43465.75,Karan,Cash
+ORD0430,CUST075,Customer_29,2026-04-12,East,Bihar,Office Supplies,Stapler,7,12420,86940,0,9651.14,Karan,Net Banking
+ORD0431,CUST137,Customer_6,2025-07-10,East,Bihar,Office Supplies,Notebook,4,21113,84452,0,8940.54,Amit,Cash
+ORD0432,CUST004,Customer_127,2025-08-11,East,West Bengal,Office Supplies,Notebook,12,637,7644,5,728.73,Raj,Net Banking
+ORD0433,CUST193,Customer_244,2025-05-30,East,Odisha,Furniture,Cabinet,12,2179,26148,10,2448.44,Amit,Cash
+ORD0434,CUST004,Customer_32,2025-09-12,West,Maharashtra,Office Supplies,Notebook,3,12695,38085,10,8338.05,Priya,Net Banking
+ORD0435,CUST054,Customer_122,2026-02-03,South,Telangana,Electronics,Mobile,8,48290,386320,0,65131.1,Raj,Cash
+ORD0436,CUST124,Customer_164,2025-11-02,South,Telangana,Office Supplies,Printer Paper,12,36117,433404,20,43671.55,Neha,Cash
+ORD0437,CUST043,Customer_204,2025-10-10,North,Haryana,Electronics,Laptop,4,41578,166312,15,22479.94,Karan,UPI
+ORD0438,CUST040,Customer_96,2025-04-02,West,Maharashtra,Electronics,Laptop,10,45369,453690,15,89390.14,Neha,Card
+ORD0439,CUST166,Customer_40,2025-04-20,West,Maharashtra,Office Supplies,Stapler,15,49878,748170,0,67456.33,Neha,Net Banking
+ORD0440,CUST097,Customer_92,2025-05-18,South,Tamil Nadu,Office Supplies,Stapler,13,28851,375063,5,31366.51,Raj,UPI
+ORD0441,CUST048,Customer_140,2025-12-23,West,Rajasthan,Furniture,Table,9,45781,412029,15,46255.16,Raj,Net Banking
+ORD0442,CUST068,Customer_139,2026-01-11,East,Bihar,Office Supplies,Pen Set,2,34908,69816,5,10918.9,Priya,UPI
+ORD0443,CUST185,Customer_17,2026-02-01,West,Rajasthan,Electronics,Laptop,10,23960,239600,20,28894.25,Neha,Net Banking
+ORD0444,CUST134,Customer_169,2025-03-10,South,Telangana,Furniture,Table,7,42102,294714,10,29111.53,Amit,Card
+ORD0445,CUST165,Customer_215,2026-02-02,South,Karnataka,Electronics,Laptop,8,12657,101256,0,8648.17,Priya,Cash
+ORD0446,CUST021,Customer_120,2025-03-04,North,Punjab,Electronics,Laptop,1,13779,13779,15,3277.04,Raj,Net Banking
+ORD0447,CUST020,Customer_242,2025-08-10,East,Bihar,Electronics,Tablet,9,2764,24876,0,5518.93,Karan,UPI
+ORD0448,CUST146,Customer_161,2025-07-03,North,Haryana,Electronics,Monitor,4,12756,51024,20,9779.72,Karan,Net Banking
+ORD0449,CUST043,Customer_203,2025-07-04,North,Haryana,Office Supplies,Stapler,11,30162,331782,15,76336.43,Karan,Net Banking
+ORD0450,CUST084,Customer_217,2026-01-16,East,Bihar,Electronics,Monitor,15,23189,347835,10,60354.18,Priya,Net Banking
+ORD0451,CUST116,Customer_115,2026-02-11,East,Bihar,Electronics,Mobile,7,36160,253120,10,35740.91,Amit,UPI
+ORD0452,CUST057,Customer_55,2025-11-19,East,Bihar,Electronics,Mobile,15,19881,298215,0,39083.1,Amit,Cash
+ORD0453,CUST150,Customer_64,2025-08-27,South,Karnataka,Electronics,Monitor,6,10330,61980,5,7750.47,Raj,Cash
+ORD0454,CUST045,Customer_125,2025-04-08,North,Haryana,Furniture,Desk,12,5159,61908,10,13297.45,Karan,Cash
+ORD0455,CUST112,Customer_107,2025-05-04,North,Haryana,Office Supplies,Notebook,2,3764,7528,10,1047.51,Neha,UPI
+ORD0456,CUST129,Customer_179,2025-08-15,West,Maharashtra,Furniture,Chair,6,35484,212904,20,22446.17,Neha,UPI
+ORD0457,CUST038,Customer_34,2025-12-11,West,Gujarat,Office Supplies,Printer Paper,4,28407,113628,10,24280.33,Amit,Net Banking
+ORD0458,CUST179,Customer_34,2025-05-19,North,Haryana,Furniture,Table,2,26217,52434,20,8067.68,Priya,Card
+ORD0459,CUST019,Customer_69,2026-03-17,West,Gujarat,Office Supplies,Pen Set,9,40469,364221,20,44384.62,Raj,UPI
+ORD0460,CUST153,Customer_168,2025-01-25,North,Haryana,Furniture,Cabinet,6,22926,137556,5,18504.79,Raj,Card
+ORD0461,CUST096,Customer_40,2025-03-29,East,Bihar,Furniture,Desk,8,3041,24328,5,2772.09,Amit,UPI
+ORD0462,CUST121,Customer_6,2025-12-06,South,Telangana,Electronics,Tablet,1,22596,22596,0,2979.74,Neha,Card
+ORD0463,CUST037,Customer_178,2025-01-19,South,Telangana,Office Supplies,Stapler,9,31755,285795,20,58327.05,Priya,UPI
+ORD0464,CUST120,Customer_168,2025-01-09,East,West Bengal,Electronics,Tablet,4,45747,182988,20,23078.05,Amit,Net Banking
+ORD0465,CUST167,Customer_99,2025-08-25,East,Bihar,Office Supplies,Stapler,14,7170,100380,0,13021.72,Priya,UPI
+ORD0466,CUST144,Customer_238,2025-01-23,East,Odisha,Office Supplies,Printer Paper,3,13133,39399,20,9627.32,Amit,Card
+ORD0467,CUST091,Customer_91,2025-11-06,East,Odisha,Furniture,Cabinet,12,10389,124668,0,17322.94,Neha,Cash
+ORD0468,CUST058,Customer_39,2025-12-16,North,Haryana,Furniture,Cabinet,15,2031,30465,20,7352.72,Priya,Card
+ORD0469,CUST080,Customer_233,2025-12-04,North,Haryana,Furniture,Desk,7,15852,110964,20,11758.56,Priya,Card
+ORD0470,CUST135,Customer_233,2025-05-19,South,Telangana,Electronics,Mobile,14,9151,128114,10,25244.92,Priya,Card
+ORD0471,CUST196,Customer_82,2026-02-28,South,Tamil Nadu,Electronics,Laptop,3,20914,62742,5,12774.49,Priya,Cash
+ORD0472,CUST007,Customer_196,2025-10-01,West,Rajasthan,Office Supplies,Stapler,3,12416,37248,0,3812.81,Karan,Card
+ORD0473,CUST155,Customer_121,2026-01-18,South,Karnataka,Office Supplies,Printer Paper,6,5308,31848,15,3273.81,Neha,Net Banking
+ORD0474,CUST004,Customer_237,2025-10-04,West,Gujarat,Electronics,Mobile,4,14929,59716,0,8925.16,Priya,Card
+ORD0475,CUST084,Customer_222,2026-04-14,South,Karnataka,Electronics,Mobile,15,28888,433320,20,70756.95,Neha,Net Banking
+ORD0476,CUST191,Customer_147,2026-06-22,West,Maharashtra,Office Supplies,Notebook,12,20606,247272,15,45487.13,Amit,UPI
+ORD0477,CUST011,Customer_143,2026-02-01,West,Gujarat,Electronics,Mobile,9,35349,318141,15,78660.75,Karan,UPI
+ORD0478,CUST109,Customer_76,2025-02-25,South,Tamil Nadu,Furniture,Cabinet,15,20059,300885,10,47668.92,Karan,Card
+ORD0479,CUST150,Customer_241,2025-05-19,West,Rajasthan,Furniture,Chair,12,32911,394932,0,43664.13,Priya,Net Banking
+ORD0480,CUST024,Customer_65,2025-11-28,East,Odisha,Electronics,Mobile,8,38786,310288,5,71376.55,Neha,UPI
+ORD0481,CUST099,Customer_187,2026-06-08,North,Delhi,Office Supplies,Notebook,11,23885,262735,0,44415.07,Karan,Card
+ORD0482,CUST169,Customer_221,2025-06-03,West,Rajasthan,Furniture,Chair,13,11299,146887,10,25871.73,Neha,Card
+ORD0483,CUST047,Customer_31,2025-05-15,South,Telangana,Electronics,Monitor,5,20384,101920,15,13157.13,Neha,UPI
+ORD0484,CUST156,Customer_226,2026-05-21,East,West Bengal,Furniture,Cabinet,14,32779,458906,20,99705.26,Neha,Card
+ORD0485,CUST141,Customer_72,2025-08-01,West,Gujarat,Furniture,Cabinet,2,39501,79002,20,6408.44,Amit,Card
+ORD0486,CUST155,Customer_77,2025-12-06,South,Karnataka,Office Supplies,Stapler,1,9627,9627,0,1861.76,Amit,UPI
+ORD0487,CUST180,Customer_153,2025-07-01,North,Punjab,Electronics,Mobile,11,18737,206107,20,39646.16,Priya,Cash
+ORD0488,CUST141,Customer_17,2025-10-27,North,Delhi,Furniture,Table,6,24934,149604,0,31257.53,Priya,Card
+ORD0489,CUST054,Customer_157,2025-03-01,North,Haryana,Furniture,Table,9,27216,244944,20,28333.58,Amit,UPI
+ORD0490,CUST148,Customer_160,2025-12-29,West,Rajasthan,Office Supplies,Stapler,7,40001,280007,10,34760.69,Neha,Net Banking
+ORD0491,CUST007,Customer_120,2025-05-01,West,Gujarat,Electronics,Mobile,12,19137,229644,5,18433.24,Neha,Net Banking
+ORD0492,CUST052,Customer_177,2025-10-16,West,Maharashtra,Furniture,Table,9,41879,376911,5,30876.75,Raj,UPI
+ORD0493,CUST088,Customer_102,2025-01-30,East,Odisha,Office Supplies,Stapler,13,501,6513,0,1280.4,Neha,Card
+ORD0494,CUST124,Customer_40,2026-04-17,East,Odisha,Office Supplies,Notebook,15,31196,467940,0,88796.71,Karan,Cash
+ORD0495,CUST174,Customer_81,2025-01-20,West,Gujarat,Office Supplies,Printer Paper,14,34249,479486,10,84408.83,Neha,Cash
+ORD0496,CUST161,Customer_137,2025-06-19,East,West Bengal,Electronics,Tablet,14,2142,29988,10,7413.49,Karan,Net Banking
+ORD0497,CUST023,Customer_128,2025-09-01,South,Telangana,Electronics,Tablet,12,20711,248532,0,31353.45,Raj,Net Banking
+ORD0498,CUST200,Customer_52,2025-04-05,East,West Bengal,Office Supplies,Stapler,3,7455,22365,10,4773.6,Priya,UPI
+ORD0499,CUST084,Customer_37,2025-04-11,West,Rajasthan,Electronics,Mobile,6,31784,190704,20,25318.05,Karan,Card
+ORD0500,CUST080,Customer_239,2025-02-15,South,Telangana,Electronics,Monitor,7,46871,328097,20,32708.68,Karan,UPI
